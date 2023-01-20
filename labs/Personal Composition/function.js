@@ -20,11 +20,11 @@ function draw () {
         r = r + 1;
         w = w + 1
     }
-    // Prevent mouse from going past 1000 //
+    // Prevent mouse from going past 100 //
     if (r >= 100){
     r = 100;
     console.log("it works");
-    // This will make a rectangle w away from the mouse when it hits 100
+    // This will make a rectangle w away from the mouse when it hits 100 //
     fill (255, 165, 0)
     rect(mouseX + w, mouseY + w, r + w);
 }
