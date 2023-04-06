@@ -1,3 +1,5 @@
+//Kyle Niswander, Apr. 6 2023, N220 //
+
 //Start of function that runs upon butto being clicked
 document.getElementById("button").onclick = function filterWords(){
     //Gets the words the user inputs
