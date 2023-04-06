@@ -1,3 +1,5 @@
+//Kyle Niswander, Apr. 6 2023, N220 //
+
 //The array
 let objects = [
 
